@@ -4,6 +4,14 @@
 		"command": "aaaaa_side_bar"
 	},
 	{
+		"caption": "File: New File",
+		"command": "side_bar_new_file"
+	},
+	{
+		"caption": "File: New Folder",
+		"command": "side_bar_new_directory"
+	},
+	{
 		"caption": "File: Rename",
 		"command": "side_bar_rename"
 	},
