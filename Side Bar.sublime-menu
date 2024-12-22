@@ -1,12 +1,5 @@
 [
 	{
-		"caption": "aaaaa_side_bar",
-		"id": "aaaaa_side_bar",
-		"command": "aaaaa_side_bar",
-		"args": { "paths": [] }
-	},
-	{ "caption": "-", "id": "side-bar-start-separator" },
-	{
 		"caption": "New File…",
 		"id": "side-bar-new-file",
 		"command": "side_bar_new_file",
@@ -19,38 +12,6 @@
 		"args": { "paths": [] }
 	},
 	{ "caption": "-", "id": "side-bar-new-separator" },
-	{
-		"caption": "Edit",
-		"id": "side-bar-edit",
-		"command": "side_bar_edit",
-		"args": { "paths": [] }
-	},
-	{
-		"caption": "Edit to Right",
-		"id": "side-bar-edit-to-right",
-		"command": "side_bar_edit_to_right",
-		"args": { "paths": [] }
-	},
-	{ "caption": "-" },
-	{
-		"caption": "Open / Run",
-		"id": "side-bar-open",
-		"command": "side_bar_open",
-		"args": { "paths": [] }
-	},
-	{
-		"caption": "Open In New Window",
-		"id": "side-bar-open-in-new-window",
-		"command": "side_bar_open_in_new_window",
-		"args": { "paths": [] }
-	},
-	{
-		"caption": "Open With Finder",
-		"id": "side-bar-open-with-finder",
-		"command": "side_bar_open_with_finder",
-		"args": { "paths": [] }
-	},
-	{ "caption": "-", "id": "side-bar-edit-open-separator" },
 	{
 		"caption": "Find & Replace…",
 		"id": "side-bar-find-selected",
@@ -89,12 +50,6 @@
 		"command": "side_bar_copy_path_relative_from_project_encoded",
 		"args": { "paths": [] }
 	},
-	{
-		"caption": "Copy as Data URI",
-		"id": "side-bar-clip-copy-content-base-64",
-		"command": "side_bar_copy_content_base64",
-		"args": { "paths": [] }
-	},
 	{ "caption": "-" },
 	{
 		"caption": "Paste",
@@ -124,14 +79,7 @@
 		"command": "side_bar_move",
 		"args": { "paths": [] }
 	},
-	{
-		"caption": "Mass Rename…",
-		"id": "side-bar-mass-rename",
-		"command": "side_bar_mass_rename",
-		"args": { "paths": [] }
-	},
 	{ "caption": "-", "id": "side-bar-rename-move-separator" },
-
 	{
 		"caption": "Delete",
 		"id": "side-bar-delete",
@@ -139,35 +87,4 @@
 		"args": { "paths": [] }
 	},
 	{ "caption": "-", "id": "side-bar-delete-separator" },
-	{
-		"caption": "Reveal",
-		"id": "side-bar-reveal",
-		"command": "side_bar_reveal",
-		"args": { "paths": [] }
-	},
-	{ "caption": "-", "id": "side-bar-reveal-separator" },
-	{
-		"caption": "Promote",
-		"id": "side-bar-project-item-add",
-		"command": "side_bar_project_item_add",
-		"args": { "paths": [] }
-	},
-	{
-		"caption": "Unpromote",
-		"command": "side_bar_project_item_remove_folder",
-		"args": { "paths": [] }
-	},
-	{ "caption": "-", "id": "side-bar-donate-separator" },
-	{
-		"caption": "Give 20",
-		"command": "side_bar_donate",
-		"args": { "paths": [] }
-	},
-	{ "caption": "-", "id": "side-bar-end-separator" },
-	{
-		"caption": "zzzzz_side_bar",
-		"id": "zzzzz_side_bar",
-		"command": "zzzzz_side_bar",
-		"args": { "paths": [] }
-	}
 ]
